@@ -1,0 +1,8 @@
+Country,hardship_food,hardship_medicine,hardship_cash_income,hardship_shelter,civic_benefits,civic_fare_avoidance,civic_stealing,civic_tax_cheating,civic_bribery,personal_sexual_family_morality,personal_violence,personal_life_and_death
+Indonesia,0.295,0.372,0.323,0.103,0.26,0.2,0.065,0.176,0.104,0.089,0.099,0.151
+Myanmar,0.115,0.094,0.294,0.077,0.295,0.24,0.054,0.069,0.08,0.082,0.133,0.157
+Malaysia,0.153,0.206,0.263,0.104,0.377,0.331,0.233,0.268,0.232,0.307,0.27,0.321
+Philippines,0.298,0.33,0.376,0.129,0.468,0.423,0.294,0.338,0.345,0.324,0.314,0.287
+Singapore,0.043,0.052,0.1,0.021,0.17,0.091,0.039,0.06,0.046,0.275,0.093,0.313
+Thailand,0.27,0.26,0.34,0.204,0.136,0.137,0.092,0.083,0.086,0.274,0.12,0.25
+Vietnam,0.071,0.123,0.204,0.022,0.392,0.269,0.166,0.204,0.211,0.434,0.263,0.39

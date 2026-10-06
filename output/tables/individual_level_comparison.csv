@@ -1,0 +1,8 @@
+,Economic Norms: β (coefficient),Economic Norms: p-value,Economic Norms: Significant?,Personal Norms: β (coefficient),Personal Norms: p-value,Personal Norms: Significant?
+IDN,0.0493,0.0,Yes,0.1768,0.0,Yes
+MMR,0.0331,0.0,Yes,0.1027,0.02,Yes
+MYS,0.0702,0.0,Yes,0.5347,0.0,Yes
+PHL,0.0238,0.0233,Yes,0.1074,0.2311,No
+SGP,0.0732,0.0,Yes,0.1059,0.2385,No
+THA,0.0436,0.0,Yes,0.0111,0.8015,No
+VNM,0.0078,0.5266,No,-0.131,0.2273,No
