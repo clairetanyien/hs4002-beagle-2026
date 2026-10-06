@@ -20,5 +20,5 @@ Source: World Values Survey Wave 7 (2017-2022), v6.0.0
 https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp
 
 
-[Pick whichever is true:]
+
 The trimmed extract (`data/raw/WVS_Survey_Trimmed.csv`) is in data, raw folder. 
