@@ -1,0 +1,203 @@
+======================================================================
+IDN
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.010
+Model:                            OLS   Adj. R-squared:                  0.009
+Method:                 Least Squares   F-statistic:                     31.63
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):           2.02e-08
+Time:                        11:33:48   Log-Likelihood:                -5060.3
+No. Observations:                3198   AIC:                         1.012e+04
+Df Residuals:                    3196   BIC:                         1.014e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.6162      0.061     26.382      0.000       1.496       1.736
+deprivation_mean     0.1768      0.031      5.624      0.000       0.115       0.238
+==============================================================================
+Omnibus:                     1635.259   Durbin-Watson:                   1.904
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            11279.724
+Skew:                           2.368   Prob(JB):                         0.00
+Kurtosis:                      10.889   Cond. No.                         7.10
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+MMR
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.004
+Method:                 Least Squares   F-statistic:                     5.428
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):             0.0200
+Time:                        11:33:48   Log-Likelihood:                -1601.9
+No. Observations:                1200   AIC:                             3208.
+Df Residuals:                    1198   BIC:                             3218.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.9017      0.069     27.719      0.000       1.767       2.036
+deprivation_mean     0.1027      0.044      2.330      0.020       0.016       0.189
+==============================================================================
+Omnibus:                      347.644   Durbin-Watson:                   1.801
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              876.641
+Skew:                           1.537   Prob(JB):                    4.36e-191
+Kurtosis:                       5.843   Cond. No.                         5.50
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+MYS
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.030
+Model:                            OLS   Adj. R-squared:                  0.029
+Method:                 Least Squares   F-statistic:                     39.86
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):           3.73e-10
+Time:                        11:33:48   Log-Likelihood:                -2793.1
+No. Observations:                1313   AIC:                             5590.
+Df Residuals:                    1311   BIC:                             5601.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.8437      0.142     19.980      0.000       2.564       3.123
+deprivation_mean     0.5347      0.085      6.313      0.000       0.369       0.701
+==============================================================================
+Omnibus:                      149.807   Durbin-Watson:                   1.732
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              201.214
+Skew:                           0.938   Prob(JB):                     2.03e-44
+Kurtosis:                       3.402   Cond. No.                         5.60
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+PHL
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                  0.000
+Method:                 Least Squares   F-statistic:                     1.436
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):              0.231
+Time:                        11:33:48   Log-Likelihood:                -2493.1
+No. Observations:                1200   AIC:                             4990.
+Df Residuals:                    1198   BIC:                             5000.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            3.6516      0.176     20.709      0.000       3.306       3.998
+deprivation_mean     0.1074      0.090      1.198      0.231      -0.068       0.283
+==============================================================================
+Omnibus:                       71.854   Durbin-Watson:                   1.904
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               83.913
+Skew:                           0.644   Prob(JB):                     6.01e-19
+Kurtosis:                       2.858   Cond. No.                         7.69
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+SGP
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                  0.000
+Method:                 Least Squares   F-statistic:                     1.390
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):              0.239
+Time:                        11:33:48   Log-Likelihood:                -3680.7
+No. Observations:                2003   AIC:                             7365.
+Df Residuals:                    2001   BIC:                             7377.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.8120      0.110     25.636      0.000       2.597       3.027
+deprivation_mean     0.1059      0.090      1.179      0.239      -0.070       0.282
+==============================================================================
+Omnibus:                      181.137   Durbin-Watson:                   1.837
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              230.796
+Skew:                           0.819   Prob(JB):                     7.64e-51
+Kurtosis:                       3.283   Cond. No.                         6.43
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+THA
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.001
+Method:                 Least Squares   F-statistic:                   0.06325
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):              0.801
+Time:                        11:33:48   Log-Likelihood:                -2643.7
+No. Observations:                1485   AIC:                             5291.
+Df Residuals:                    1483   BIC:                             5302.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.8872      0.088     32.675      0.000       2.714       3.061
+deprivation_mean     0.0111      0.044      0.251      0.801      -0.076       0.098
+==============================================================================
+Omnibus:                      255.272   Durbin-Watson:                   1.465
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              442.902
+Skew:                           1.085   Prob(JB):                     6.68e-97
+Kurtosis:                       4.564   Cond. No.                         5.75
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+VNM
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                PV_mean   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                  0.000
+Method:                 Least Squares   F-statistic:                     1.459
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):              0.227
+Time:                        11:33:48   Log-Likelihood:                -2247.0
+No. Observations:                1200   AIC:                             4498.
+Df Residuals:                    1198   BIC:                             4508.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            4.4413      0.150     29.651      0.000       4.147       4.735
+deprivation_mean    -0.1310      0.108     -1.208      0.227      -0.344       0.082
+==============================================================================
+Omnibus:                       18.920   Durbin-Watson:                   1.644
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               19.914
+Skew:                           0.276   Prob(JB):                     4.74e-05
+Kurtosis:                       3.304   Cond. No.                         6.79
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
