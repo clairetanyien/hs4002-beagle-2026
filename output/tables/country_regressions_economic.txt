@@ -1,0 +1,203 @@
+======================================================================
+IDN
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.034
+Model:                            OLS   Adj. R-squared:                  0.034
+Method:                 Least Squares   F-statistic:                     113.7
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):           4.09e-26
+Time:                        22:10:44   Log-Likelihood:                -8178.2
+No. Observations:                3199   AIC:                         1.636e+04
+Df Residuals:                    3197   BIC:                         1.637e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 3.1801      0.162     19.598      0.000       2.862       3.498
+deprivation_rebased20     0.1776      0.017     10.664      0.000       0.145       0.210
+==============================================================================
+Omnibus:                      796.991   Durbin-Watson:                   1.850
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1795.705
+Skew:                           1.406   Prob(JB):                         0.00
+Kurtosis:                       5.359   Cond. No.                         28.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+MMR
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.019
+Model:                            OLS   Adj. R-squared:                  0.018
+Method:                 Least Squares   F-statistic:                     22.75
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):           2.07e-06
+Time:                        22:10:44   Log-Likelihood:                -2853.0
+No. Observations:                1200   AIC:                             5710.
+Df Residuals:                    1198   BIC:                             5720.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 3.8026      0.195     19.540      0.000       3.421       4.184
+deprivation_rebased20     0.1193      0.025      4.770      0.000       0.070       0.168
+==============================================================================
+Omnibus:                      118.487   Durbin-Watson:                   1.941
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              154.482
+Skew:                           0.878   Prob(JB):                     2.85e-34
+Kurtosis:                       3.062   Cond. No.                         20.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+MYS
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.039
+Model:                            OLS   Adj. R-squared:                  0.038
+Method:                 Least Squares   F-statistic:                     53.09
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):           5.47e-13
+Time:                        22:10:44   Log-Likelihood:                -3733.4
+No. Observations:                1313   AIC:                             7471.
+Df Residuals:                    1311   BIC:                             7481.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 5.2366      0.291     17.978      0.000       4.665       5.808
+deprivation_rebased20     0.2526      0.035      7.287      0.000       0.185       0.321
+==============================================================================
+Omnibus:                       92.983   Durbin-Watson:                   1.769
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              112.490
+Skew:                           0.716   Prob(JB):                     3.74e-25
+Kurtosis:                       2.910   Cond. No.                         21.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+PHL
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.004
+Model:                            OLS   Adj. R-squared:                  0.003
+Method:                 Least Squares   F-statistic:                     5.158
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):             0.0233
+Time:                        22:10:44   Log-Likelihood:                -3383.3
+No. Observations:                1200   AIC:                             6771.
+Df Residuals:                    1198   BIC:                             6781.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 8.0145      0.370     21.645      0.000       7.288       8.741
+deprivation_rebased20     0.0855      0.038      2.271      0.023       0.012       0.159
+==============================================================================
+Omnibus:                       29.407   Durbin-Watson:                   1.815
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               29.189
+Skew:                           0.352   Prob(JB):                     4.59e-07
+Kurtosis:                       2.702   Cond. No.                         31.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+SGP
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.047
+Model:                            OLS   Adj. R-squared:                  0.046
+Method:                 Least Squares   F-statistic:                     97.76
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):           1.53e-22
+Time:                        22:10:44   Log-Likelihood:                -4475.5
+No. Observations:                2004   AIC:                             8955.
+Df Residuals:                    2002   BIC:                             8966.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 1.9420      0.163     11.928      0.000       1.623       2.261
+deprivation_rebased20     0.2634      0.027      9.888      0.000       0.211       0.316
+==============================================================================
+Omnibus:                      967.412   Durbin-Watson:                   1.845
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5395.393
+Skew:                           2.272   Prob(JB):                         0.00
+Kurtosis:                       9.631   Cond. No.                         20.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+THA
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.063
+Model:                            OLS   Adj. R-squared:                  0.062
+Method:                 Least Squares   F-statistic:                     99.13
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):           1.19e-22
+Time:                        22:10:44   Log-Likelihood:                -3504.2
+No. Observations:                1485   AIC:                             7012.
+Df Residuals:                    1483   BIC:                             7023.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 2.4852      0.158     15.755      0.000       2.176       2.795
+deprivation_rebased20     0.1571      0.016      9.956      0.000       0.126       0.188
+==============================================================================
+Omnibus:                      659.560   Durbin-Watson:                   1.474
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3130.488
+Skew:                           2.102   Prob(JB):                         0.00
+Kurtosis:                       8.737   Cond. No.                         23.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+======================================================================
+VNM
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           EV_rebased20   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.000
+Method:                 Least Squares   F-statistic:                    0.4012
+Date:                Thu, 29 Oct 2026   Prob (F-statistic):              0.527
+Time:                        22:10:44   Log-Likelihood:                -3109.0
+No. Observations:                1200   AIC:                             6222.
+Df Residuals:                    1198   BIC:                             6232.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+Intercept                 6.2839      0.307     20.454      0.000       5.681       6.887
+deprivation_rebased20     0.0282      0.044      0.633      0.527      -0.059       0.115
+==============================================================================
+Omnibus:                      167.267   Durbin-Watson:                   1.608
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              259.770
+Skew:                           0.949   Prob(JB):                     3.91e-57
+Kurtosis:                       4.261   Cond. No.                         23.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
