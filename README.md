@@ -21,4 +21,4 @@ https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp
 
 
 
-The trimmed extract (`data/raw/WVS_Survey_Trimmed.csv`) is in data, raw folder. 
+The trimmed extract (`data/raw/WVS_Survey_Trimmed_2.csv`) is in data, raw folder. 
