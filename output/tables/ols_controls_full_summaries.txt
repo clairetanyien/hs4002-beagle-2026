@@ -6,8 +6,8 @@ IDN | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.081
 Model:                            WLS   Adj. R-squared:                  0.079
 Method:                 Least Squares   F-statistic:                     22.99
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           1.35e-30
-Time:                        18:01:39   Log-Likelihood:                -8459.4
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           1.35e-30
+Time:                        23:03:15   Log-Likelihood:                -8459.4
 No. Observations:                3127   AIC:                         1.693e+04
 Df Residuals:                    3119   BIC:                         1.698e+04
 Df Model:                           7                                         
@@ -41,8 +41,8 @@ MMR | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.048
 Model:                            WLS   Adj. R-squared:                  0.043
 Method:                 Least Squares   F-statistic:                     8.723
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           1.76e-10
-Time:                        18:01:39   Log-Likelihood:                -2830.1
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           1.76e-10
+Time:                        23:03:15   Log-Likelihood:                -2830.1
 No. Observations:                1198   AIC:                             5676.
 Df Residuals:                    1190   BIC:                             5717.
 Df Model:                           7                                         
@@ -76,8 +76,8 @@ MYS | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.083
 Model:                            WLS   Adj. R-squared:                  0.078
 Method:                 Least Squares   F-statistic:                     17.75
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           1.31e-22
-Time:                        18:01:39   Log-Likelihood:                -3702.8
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           1.31e-22
+Time:                        23:03:15   Log-Likelihood:                -3702.8
 No. Observations:                1313   AIC:                             7422.
 Df Residuals:                    1305   BIC:                             7463.
 Df Model:                           7                                         
@@ -111,8 +111,8 @@ PHL | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.015
 Model:                            WLS   Adj. R-squared:                  0.009
 Method:                 Least Squares   F-statistic:                     2.350
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):             0.0219
-Time:                        18:01:39   Log-Likelihood:                -3470.6
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):             0.0219
+Time:                        23:03:15   Log-Likelihood:                -3470.6
 No. Observations:                1199   AIC:                             6957.
 Df Residuals:                    1191   BIC:                             6998.
 Df Model:                           7                                         
@@ -146,8 +146,8 @@ SGP | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.083
 Model:                            WLS   Adj. R-squared:                  0.079
 Method:                 Least Squares   F-statistic:                     17.04
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           5.53e-22
-Time:                        18:01:39   Log-Likelihood:                -4250.8
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           5.53e-22
+Time:                        23:03:15   Log-Likelihood:                -4250.8
 No. Observations:                1925   AIC:                             8518.
 Df Residuals:                    1917   BIC:                             8562.
 Df Model:                           7                                         
@@ -181,8 +181,8 @@ THA | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.069
 Model:                            WLS   Adj. R-squared:                  0.065
 Method:                 Least Squares   F-statistic:                     18.90
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           2.91e-24
-Time:                        18:01:39   Log-Likelihood:                -3483.1
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           2.91e-24
+Time:                        23:03:15   Log-Likelihood:                -3483.1
 No. Observations:                1457   AIC:                             6982.
 Df Residuals:                    1449   BIC:                             7024.
 Df Model:                           7                                         
@@ -216,8 +216,8 @@ VNM | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.023
 Model:                            WLS   Adj. R-squared:                  0.017
 Method:                 Least Squares   F-statistic:                     4.452
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           6.69e-05
-Time:                        18:01:39   Log-Likelihood:                -3095.4
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           6.69e-05
+Time:                        23:03:15   Log-Likelihood:                -3095.4
 No. Observations:                1200   AIC:                             6207.
 Df Residuals:                    1192   BIC:                             6248.
 Df Model:                           7                                         
@@ -251,8 +251,8 @@ Pooled | Economic | M3
 Dep. Variable:           EV_rebased20   R-squared:                       0.239
 Model:                            WLS   Adj. R-squared:                  0.238
 Method:                 Least Squares   F-statistic:                     215.7
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):               0.00
-Time:                        18:01:39   Log-Likelihood:                -29953.
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):               0.00
+Time:                        23:03:15   Log-Likelihood:                -29953.
 No. Observations:               11419   AIC:                         5.993e+04
 Df Residuals:                   11405   BIC:                         6.004e+04
 Df Model:                          13                                         
@@ -292,8 +292,8 @@ IDN | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.028
 Model:                            WLS   Adj. R-squared:                  0.026
 Method:                 Least Squares   F-statistic:                     6.581
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           9.72e-08
-Time:                        18:01:39   Log-Likelihood:                -7615.8
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           9.72e-08
+Time:                        23:03:15   Log-Likelihood:                -7615.8
 No. Observations:                3127   AIC:                         1.525e+04
 Df Residuals:                    3119   BIC:                         1.530e+04
 Df Model:                           7                                         
@@ -327,8 +327,8 @@ MMR | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.021
 Model:                            WLS   Adj. R-squared:                  0.015
 Method:                 Least Squares   F-statistic:                     3.634
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           0.000693
-Time:                        18:01:39   Log-Likelihood:                -2420.2
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           0.000693
+Time:                        23:03:15   Log-Likelihood:                -2420.2
 No. Observations:                1198   AIC:                             4856.
 Df Residuals:                    1190   BIC:                             4897.
 Df Model:                           7                                         
@@ -362,8 +362,8 @@ MYS | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.045
 Model:                            WLS   Adj. R-squared:                  0.040
 Method:                 Least Squares   F-statistic:                     9.078
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           5.56e-11
-Time:                        18:01:39   Log-Likelihood:                -3692.9
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           5.56e-11
+Time:                        23:03:15   Log-Likelihood:                -3692.9
 No. Observations:                1313   AIC:                             7402.
 Df Residuals:                    1305   BIC:                             7443.
 Df Model:                           7                                         
@@ -397,8 +397,8 @@ PHL | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.028
 Model:                            WLS   Adj. R-squared:                  0.022
 Method:                 Least Squares   F-statistic:                     3.592
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           0.000780
-Time:                        18:01:39   Log-Likelihood:                -3404.5
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           0.000780
+Time:                        23:03:15   Log-Likelihood:                -3404.5
 No. Observations:                1199   AIC:                             6825.
 Df Residuals:                    1191   BIC:                             6866.
 Df Model:                           7                                         
@@ -432,8 +432,8 @@ SGP | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.263
 Model:                            WLS   Adj. R-squared:                  0.260
 Method:                 Least Squares   F-statistic:                     102.0
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):          5.57e-127
-Time:                        18:01:39   Log-Likelihood:                -4594.8
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):          5.57e-127
+Time:                        23:03:15   Log-Likelihood:                -4594.8
 No. Observations:                1925   AIC:                             9206.
 Df Residuals:                    1917   BIC:                             9250.
 Df Model:                           7                                         
@@ -467,8 +467,8 @@ THA | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.052
 Model:                            WLS   Adj. R-squared:                  0.047
 Method:                 Least Squares   F-statistic:                     9.092
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           5.01e-11
-Time:                        18:01:39   Log-Likelihood:                -3621.6
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           5.01e-11
+Time:                        23:03:15   Log-Likelihood:                -3621.6
 No. Observations:                1457   AIC:                             7259.
 Df Residuals:                    1449   BIC:                             7301.
 Df Model:                           7                                         
@@ -502,8 +502,8 @@ VNM | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.017
 Model:                            WLS   Adj. R-squared:                  0.011
 Method:                 Least Squares   F-statistic:                     2.787
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):            0.00705
-Time:                        18:01:39   Log-Likelihood:                -3069.3
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):            0.00705
+Time:                        23:03:15   Log-Likelihood:                -3069.3
 No. Observations:                1200   AIC:                             6155.
 Df Residuals:                    1192   BIC:                             6195.
 Df Model:                           7                                         
@@ -537,8 +537,8 @@ Pooled | Personal | M3
 Dep. Variable:           PV_rebased20   R-squared:                       0.259
 Model:                            WLS   Adj. R-squared:                  0.258
 Method:                 Least Squares   F-statistic:                     287.6
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):               0.00
-Time:                        18:01:39   Log-Likelihood:                -29329.
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):               0.00
+Time:                        23:03:15   Log-Likelihood:                -29329.
 No. Observations:               11419   AIC:                         5.869e+04
 Df Residuals:                   11405   BIC:                         5.879e+04
 Df Model:                          13                                         
@@ -578,8 +578,8 @@ IDN | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.048
 Model:                            WLS   Adj. R-squared:                  0.046
 Method:                 Least Squares   F-statistic:                     12.55
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           5.95e-16
-Time:                        18:01:39   Log-Likelihood:                -8044.1
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           5.95e-16
+Time:                        23:03:15   Log-Likelihood:                -8044.1
 No. Observations:                3127   AIC:                         1.610e+04
 Df Residuals:                    3119   BIC:                         1.615e+04
 Df Model:                           7                                         
@@ -613,8 +613,8 @@ MMR | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.030
 Model:                            WLS   Adj. R-squared:                  0.024
 Method:                 Least Squares   F-statistic:                     5.175
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           8.04e-06
-Time:                        18:01:39   Log-Likelihood:                -2798.4
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           8.04e-06
+Time:                        23:03:15   Log-Likelihood:                -2798.4
 No. Observations:                1198   AIC:                             5613.
 Df Residuals:                    1190   BIC:                             5653.
 Df Model:                           7                                         
@@ -648,8 +648,8 @@ MYS | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.060
 Model:                            WLS   Adj. R-squared:                  0.055
 Method:                 Least Squares   F-statistic:                     10.92
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           1.90e-13
-Time:                        18:01:39   Log-Likelihood:                -3308.2
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           1.90e-13
+Time:                        23:03:15   Log-Likelihood:                -3308.2
 No. Observations:                1313   AIC:                             6632.
 Df Residuals:                    1305   BIC:                             6674.
 Df Model:                           7                                         
@@ -683,8 +683,8 @@ PHL | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.017
 Model:                            WLS   Adj. R-squared:                  0.012
 Method:                 Least Squares   F-statistic:                     1.775
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):             0.0886
-Time:                        18:01:39   Log-Likelihood:                -3315.4
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):             0.0886
+Time:                        23:03:15   Log-Likelihood:                -3315.4
 No. Observations:                1199   AIC:                             6647.
 Df Residuals:                    1191   BIC:                             6688.
 Df Model:                           7                                         
@@ -718,8 +718,8 @@ SGP | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.165
 Model:                            WLS   Adj. R-squared:                  0.162
 Method:                 Least Squares   F-statistic:                     51.01
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           6.72e-67
-Time:                        18:01:39   Log-Likelihood:                -4726.0
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           6.72e-67
+Time:                        23:03:15   Log-Likelihood:                -4726.0
 No. Observations:                1925   AIC:                             9468.
 Df Residuals:                    1917   BIC:                             9512.
 Df Model:                           7                                         
@@ -753,8 +753,8 @@ THA | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.104
 Model:                            WLS   Adj. R-squared:                  0.099
 Method:                 Least Squares   F-statistic:                     20.85
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           7.12e-27
-Time:                        18:01:39   Log-Likelihood:                -3602.3
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           7.12e-27
+Time:                        23:03:15   Log-Likelihood:                -3602.3
 No. Observations:                1457   AIC:                             7221.
 Df Residuals:                    1449   BIC:                             7263.
 Df Model:                           7                                         
@@ -788,8 +788,8 @@ VNM | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.025
 Model:                            WLS   Adj. R-squared:                  0.019
 Method:                 Least Squares   F-statistic:                     4.551
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):           5.02e-05
-Time:                        18:01:39   Log-Likelihood:                -3078.6
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):           5.02e-05
+Time:                        23:03:15   Log-Likelihood:                -3078.6
 No. Observations:                1200   AIC:                             6173.
 Df Residuals:                    1192   BIC:                             6214.
 Df Model:                           7                                         
@@ -823,8 +823,8 @@ Pooled | Gap | M3
 Dep. Variable:              gap_EV_PV   R-squared:                       0.232
 Model:                            WLS   Adj. R-squared:                  0.231
 Method:                 Least Squares   F-statistic:                     202.1
-Date:                Fri, 13 Nov 2026   Prob (F-statistic):               0.00
-Time:                        18:01:39   Log-Likelihood:                -29166.
+Date:                Sat, 14 Nov 2026   Prob (F-statistic):               0.00
+Time:                        23:03:15   Log-Likelihood:                -29166.
 No. Observations:               11419   AIC:                         5.836e+04
 Df Residuals:                   11405   BIC:                         5.846e+04
 Df Model:                          13                                         
