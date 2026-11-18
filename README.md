@@ -1,8 +1,8 @@
 # hs4002-beagle-2026
 HS4002 Team Beagle
 Members: Claire, Gabriel, Ryan, Xavier
-# Economic Insecurity and Justifiability of Norm Violations in Southeast Asia
-
+## Economic Insecurity and Justifiability of Norm Violations in Southeast Asia
+Research question: To what extent is deprivation associated with the perceived justifiability of economic norm violations, compared to personal norm violations?
 ## What this project is
 
 This project examines whether economic insecurity, measured as material deprivation, is associated with how justifiable people find economic norm violations (e.g. cheating on taxes, claiming government benefits one is not entitled to) compared with personal norm violations (e.g. divorce, premarital sex).
