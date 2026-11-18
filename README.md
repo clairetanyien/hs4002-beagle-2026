@@ -8,19 +8,17 @@ Members: Claire, Gabriel, Ryan, Xavier
 
 ## What this project is
 
-We study whether Deprivation is associated with how justifiable people
-find economic norm violations (e.g. tax cheating, claiming unentitled benefits)
-compared to personal norm violations (e.g. divorce, premarital sex), using World
-Values Survey Wave 7 data for seven Southeast Asian countries: Myanmar, Indonesia,
-Malaysia, the Philippines, Singapore, Vietnam, and Thailand.
+This project examines whether economic insecurity, measured as material deprivation, is associated with how justifiable people find economic norm violations (e.g. cheating on taxes, claiming government benefits one is not entitled to) compared with personal norm violations (e.g. divorce, premarital sex).
+
+We use World Values Survey (WVS) Wave 7 data for seven Southeast Asian countries: Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand and Vietnam.
 
 
 ## Structure of the Repository
-- data/raw/          trimmed WVS extract (input)
-- code/              final project code.ipynb (all cleaning, models, tables and figures)
-- output/tables/     regression tables and robustness checks (.csv / .txt)
-- output/figures/    figures used in the paper (.png)
-- slides/            presentation slides
+- data/raw/:          trimmed WVS extract (input)
+- code/:              final project code.ipynb (all cleaning, models, tables and figures)
+- output/tables/:     regression tables and robustness checks (.csv / .txt)
+- output/figures/:    figures used in the paper (.png)
+- slides/:            presentation slides
 
 
 ## Data
