@@ -16,11 +16,11 @@ Malaysia, the Philippines, Singapore, Vietnam, and Thailand.
 
 
 ## Structure of the Repository
-data/raw/          trimmed WVS extract (input)
-code/              final project code.ipynb (all cleaning, models, tables and figures)
-output/tables/     regression tables and robustness checks (.csv / .txt)
-output/figures/    figures used in the paper (.png)
-slides/            presentation slides
+- data/raw/          trimmed WVS extract (input)
+- code/              final project code.ipynb (all cleaning, models, tables and figures)
+- output/tables/     regression tables and robustness checks (.csv / .txt)
+- output/figures/    figures used in the paper (.png)
+- slides/            presentation slides
 
 
 ## Data
