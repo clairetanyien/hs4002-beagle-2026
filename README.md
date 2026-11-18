@@ -31,4 +31,8 @@ The file was trimmed to include only the countries and variables of interest. Th
 ## Code 
 https://github.com/clairetanyien/hs4002-beagle-2026/blob/main/code/final%20project%20code.ipynb
 
-Order of the code: 1. data cleaning and re-scalling --> 2. OLS models --> 3. robustness checks + controls --> 4. data visualisation and forest plots 
+Order of the code:
+1. Data Cleaning and Rescalling
+2. OLS Models
+3. Robustness Checks and Controls
+4. Data Visualisation and Forest Plots 
