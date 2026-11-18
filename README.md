@@ -15,7 +15,7 @@ Values Survey Wave 7 data for seven Southeast Asian countries: Myanmar, Indonesi
 Malaysia, the Philippines, Singapore, Vietnam, and Thailand.
 
 
-## structure of the repo
+## Structure of the Repository
 data/raw/          trimmed WVS extract (input)
 code/              final project code.ipynb (all cleaning, models, tables and figures)
 output/tables/     regression tables and robustness checks (.csv / .txt)
@@ -28,7 +28,7 @@ The data for this assignment was taken from the World Values Survey Wave 7 (2017
 
 The file was trimmed to include only the countries and variables of interest. The trimmed extract (`data/raw/WVS_Survey_Trimmed_2.csv`) is in data, raw folder. 
 
-## code 
+## Code 
 https://github.com/clairetanyien/hs4002-beagle-2026/blob/main/code/final%20project%20code.ipynb
 
 Order of the code: 1. data cleaning and re-scalling --> 2. OLS models --> 3. robustness checks + controls --> 4. data visualisation and forest plots 
