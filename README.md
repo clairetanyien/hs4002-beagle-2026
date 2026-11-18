@@ -1,10 +1,7 @@
 # hs4002-beagle-2026
-
-# Economic Insecurity and Justifiability of Norm Violations in Southeast Asia
-
-HS4002 Group Presentation #1
-Team: Beagle
+HS4002 Team Beagle
 Members: Claire, Gabriel, Ryan, Xavier
+# Economic Insecurity and Justifiability of Norm Violations in Southeast Asia
 
 ## What this project is
 
