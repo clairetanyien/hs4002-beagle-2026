@@ -13,11 +13,11 @@ We use World Values Survey (WVS) Wave 7 data for seven Southeast Asian countries
 We estimate survey-weighted OLS (WLS) regressions for each country and for the pooled sample (with country fixed effects), controlling for income, social class, religiosity, age, gender and education. We also run robustness checks using rank-transformed outcomes, a narrower personal-norms index and alternative religiosity measures.
 
 ## Structure of the Repository
-- data/raw/:          trimmed WVS extract (input)
-- code/:              final project code.ipynb (all cleaning, models, tables and figures)
-- output/tables/:     regression tables and robustness checks (.csv / .txt)
-- output/figures/:    figures used in the paper (.png)
-- slides/:            presentation slides
+- data/raw/:          Trimmed WVS extract (input)
+- code/:              Final project code.ipynb (all cleaning, models, tables and figures)
+- output/tables/:     Regression tables and robustness checks (.csv / .txt)
+- output/figures/:    Figures used in the paper (.png)
+- slides/:            Presentation slides
 
 ## Data
 The data for this assignment was taken from the World Values Survey Wave 7 (2017-2022), v6.0.0 (https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp).
